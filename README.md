@@ -20,3 +20,7 @@ The dataset used in this project was sourced from Kaggle. It includes a variety 
 ## Results
 <p align="center"> <img src="Results/1.png" alt="Results Chart" width="600"> </p>
 <p align="center"> <img src="Results/2.png" alt="Results Chart" width="600"> </p>
+<p align="center"> <img src="Results/3.png" alt="Results Chart" width="600"> </p>
+<p align="center"> <img src="Results/4.png" alt="Results Chart" width="600"> </p>
+<p align="center"> <img src="Results/5.png" alt="Results Chart" width="600"> </p>
+<p align="center"> <img src="Results/6.png" alt="Results Chart" width="600"> </p>
