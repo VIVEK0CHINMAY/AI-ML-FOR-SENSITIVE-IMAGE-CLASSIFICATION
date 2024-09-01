@@ -18,4 +18,5 @@ The dataset used in this project was sourced from Kaggle. It includes a variety 
 - **Non-Sensitive Images**: General images that are safe for viewing by all audiences.
 
 ## Results
-<p align="center"> <img src="C:\Users\ASUS\Pictures\Screenshots\Screenshot 2024-07-12 183805.png" alt="Results Chart" width="600"> </p>
+<p align="center"> <img src="Results/1.png" alt="Results Chart" width="600"> </p>
+<p align="center"> <img src="Results/2.png" alt="Results Chart" width="600"> </p>
